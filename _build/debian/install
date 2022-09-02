@@ -1,0 +1,3 @@
+sysctl.d/*.conf etc/sysctl.d
+cron.d/* /etc/cron.d
+*.sh usr/bin
